@@ -1,0 +1,16 @@
+# Build artifacts
+/target/
+*.o
+*.exe
+*.pdb
+
+# Editor/OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local runtime state (should never be committed)
+*.pid
+*.sock
+*.log
