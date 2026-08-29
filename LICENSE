@@ -1,21 +1,87 @@
-MIT License
+GHOSTEXEC PROPRIETARY LICENSE — ALL RIGHTS RESERVED
 
-Copyright (c) 2026 Suphakin Thiwong
+Copyright (c) 2026 Suphakin Thiwong. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This repository, including but not limited to its architecture design,
+technical specification, diagrams, written documentation (including
+docs/ARCHITECTURE.md and README.md), source code, configuration files, and
+any derivative or partial works thereof (collectively, the "Work"), is the
+sole and exclusive intellectual property of Suphakin Thiwong (the "Owner").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. NO LICENSE GRANTED BY DEFAULT
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+No license, right, or permission of any kind is granted to any person or
+entity to use, copy, reproduce, modify, adapt, merge, publish, distribute,
+sublicense, sell, rent, lease, publicly display, publicly perform, create
+derivative works from, reverse-engineer, or otherwise exploit the Work, in
+whole or in part, for any purpose — commercial, non-commercial, educational,
+research, or personal — unless and until written authorization has been
+obtained from the Owner in the manner described in Section 2.
+
+Merely having access to this repository (including if its visibility is
+changed to public) does NOT constitute permission to use it. Access and
+license are separate; access is not consent.
+
+2. REQUIRED FORM OF AUTHORIZATION
+
+Authorization to use the Work in any way is valid ONLY if ALL of the
+following are provided by the Owner for the specific requesting party and
+the specific intended use:
+
+  (a) A signed written document bearing the Owner's handwritten (wet-ink)
+      signature, explicitly identifying the requesting party, the scope of
+      permitted use, and any conditions or limitations on that use;
+
+  (b) The Owner's physical fingerprint affixed to that same document; and
+
+  (c) A video recording, made and provided by the Owner, in which the Owner
+      is clearly identifiable and verbally and/or visibly confirms that the
+      named requesting party is authorized to use the Work as described in
+      the signed document.
+
+Digital signatures, email confirmations, verbal agreements, implied
+consent, silence, or any form of authorization not satisfying all three
+requirements above (a), (b), and (c) simultaneously are NOT valid and do
+NOT constitute permission under this License.
+
+Contact for authorization requests: suphakin.th@gmail.com
+(Note: contacting this address does not itself grant any permission — it
+only initiates a request. No use is authorized until Section 2(a)-(c) is
+fully satisfied and the Owner has affirmatively provided all three items.)
+
+3. NO IMPLIED RIGHTS
+
+Nothing in this repository being publicly or privately accessible, indexed,
+forked, cloned, starred, referenced, cited, or linked to by any third party
+(including GitHub or any hosting platform) shall be construed as a grant of
+license, waiver of rights, or estoppel against enforcement of this License.
+
+4. RESERVATION OF ALL RIGHTS
+
+All rights not expressly and affirmatively granted in strict compliance
+with Section 2 are reserved by the Owner, including without limitation all
+copyright, trade secret, and any other intellectual property rights
+(whether registered or unregistered) in and to the Work, in all
+jurisdictions.
+
+5. NO WARRANTY
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. THIS DISCLAIMER
+APPLIES EVEN IN THE EVENT AUTHORIZATION IS GRANTED UNDER SECTION 2, UNLESS
+THE SIGNED DOCUMENT DESCRIBED IN SECTION 2(a) EXPRESSLY STATES OTHERWISE.
+
+6. ENFORCEMENT
+
+Unauthorized use of the Work — any use not satisfying Section 2 in full —
+constitutes infringement of the Owner's rights and may be pursued through
+all legal remedies available to the Owner under applicable law.
+
+7. SEVERABILITY
+
+If any provision of this License is held unenforceable, the remaining
+provisions shall remain in full force and effect, and the unenforceable
+provision shall be reformed only to the minimum extent necessary to make it
+enforceable while preserving the Owner's intent to require the full
+authorization process described in Section 2.

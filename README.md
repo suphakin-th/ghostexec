@@ -49,4 +49,8 @@ This repository currently contains the architecture design and full technical sp
 
 ## License
 
-See [`LICENSE`](LICENSE).
+**All rights reserved. This is not open source.**
+
+No part of this repository — architecture, documentation, or source code — may be used, copied, modified, or distributed in any way without prior written authorization from the Owner. That authorization must take a specific, deliberately strict form: a signed physical document, a fingerprint, and a video confirmation — see [`LICENSE`](LICENSE) for the full terms. Public visibility of this repository (if ever made public) does not grant any usage rights.
+
+To request authorization, contact: suphakin.th@gmail.com
